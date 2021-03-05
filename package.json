@@ -1,0 +1,29 @@
+{
+  "name": "ubiquitous-system",
+  "version": "1.0.0",
+  "description": "A piece of code that needs refactoring.",
+  "main": "payday.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sky-uk/ubiquitous-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sky-uk/ubiquitous-system/issues"
+  },
+  "homepage": "https://github.com/sky-uk/ubiquitous-system#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/node": "^7.12.6",
+    "@babel/plugin-transform-regenerator": "^7.12.1",
+    "@babel/plugin-transform-runtime": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
